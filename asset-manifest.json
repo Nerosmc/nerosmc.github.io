@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f4b1fac.css",
+    "main.js": "/static/js/main.3b820c0e.js",
+    "static/media/chrollo.jpg": "/static/media/chrollo.635d0ce29c9e365962dc.jpg",
+    "index.html": "/index.html",
+    "main.9f4b1fac.css.map": "/static/css/main.9f4b1fac.css.map",
+    "main.3b820c0e.js.map": "/static/js/main.3b820c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4b1fac.css",
+    "static/js/main.3b820c0e.js"
+  ]
+}
